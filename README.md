@@ -1,4 +1,4 @@
-# Bloons-TD-UMBC
+# Bloons-TD-CMSC202
 ### Computer Science CMSC202 - Project 4
 ## Overview
 - Practice creating classes with inheritance
